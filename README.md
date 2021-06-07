@@ -1,5 +1,5 @@
 
-# AI- Smart Helmet
+# AI- Smart Helmet :)
 
 ## 1.ABSTRACT:
 The maintenance of a state of wakefulness while performing various tasks is needed for a range of reasons varying from safety to efficient performance and beyond. In order to decrease the possibility of accidents, alertness while operating vehicles, such as automobiles or heavy machinery, must be maintained. Additionally, reading and studying require wakefulness.
@@ -22,3 +22,4 @@ The cell phone may cause malfunctioning of the Bio-Medical Equipment. So this pr
 
 ## 5.CONCLUSION:
 As this project is based on micro-controller and this can be of great use to develop a smart helmet to protect human from accident in case of drowsiness or while attending phone call in vehicle .
+
